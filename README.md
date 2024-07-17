@@ -6,8 +6,7 @@ The program should randomly generate a move for the computer.
 Determine the winner based on the rules of Rock Paper Scissors.
 Output the result (win, lose, or draw) to the console.
 Example:
-node rockPaperScissors.js rock
-# Output: You chose rock. Computer chose scissors. You win!
+node rockPaperScissors.js rock  # Output: You chose rock. Computer chose scissors. You win!
 
 
 *****English to Pig Latin Translator*****
@@ -23,8 +22,8 @@ If a word starts with a vowel add the word “way” at the end of the word.
 Example: Awesome = Awesome +way = Awesomeway
 Output the translated phrase to the console.
 Example:
-node pigLatin.js "Pig Latin is hard to speak"
-# Output: Igpay Atinlay isway ardhay otay eakspay
+node pigLatin.js "Pig Latin is hard to speak" # Output: Igpay Atinlay isway ardhay otay eakspay
+
 
 
 *****Caesar Cipher*****
@@ -38,5 +37,5 @@ A negative shift means shift to the left
 A positive shift means shift to the right
 Output the encrypted phrase to the console.
 Example:
-node caesarCipher.js "hello world" 3
-# Output: khoor zruog
+node caesarCipher.js "hello world" 3 # Output: khoor zruog
+
